@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>羡鱼资源</title>
+    <link>https://9llll.github.io/xyblog</link>
+    <description>墨此资源网，分享网站源码、游戏素材、软件工具、技术教程文档，免费优质资源集合站。</description>
+    <language>zh-CN</language>
+    <generator>GitPress</generator>
+    <item>
+      <title>你好,世界</title>
+      <link>https://9llll.github.io/xyblog/posts/hello-world/</link>
+      <guid>https://9llll.github.io/xyblog/posts/hello-world/</guid>
+      <pubDate>Sat, 24 Oct 2026 01:55:52 GMT</pubDate>
+      <description>我在 GitPress 上的第一篇文章。</description>
+    </item>
+  </channel>
+</rss>
